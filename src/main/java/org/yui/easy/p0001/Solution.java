@@ -1,6 +1,8 @@
 package org.yui.easy.p0001;
 
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * @program: leet-code
@@ -10,7 +12,7 @@ import java.util.Arrays;
  **/
 public class Solution {
 
-    public int[] twoSum(int[] nums, int target) {
+    public int[] twoSum1(int[] nums, int target) {
 
         int length = nums.length;
         int sum;
@@ -27,12 +29,29 @@ public class Solution {
         return new int[]{0, 0};
     }
 
+    public int[] twoSum2(int[] nums, int target) {
+        if (nums == null || nums.length <= 1) {
+            return new int[]{0, 0};
+        }
+
+        Map<Integer, Integer> map = new HashMap<>(nums.length);
+        for (int i = 0; i < nums.length; i++) {
+            if (map.containsKey(target - nums[i])) {
+                return new int[]{map.get(target - nums[i]), i};
+            } else {
+                map.put(nums[i], i);
+            }
+        }
+
+        return new int[]{0, 0};
+    }
+
     public static void main(String[] args) {
         Solution solution = new Solution();
 
         int[] nums = new int[]{2, 7, 11, 15};
         int target = 9;
-        int[] result = solution.twoSum(nums, target);
+        int[] result = solution.twoSum2(nums, target);
 
         System.out.println(Arrays.toString(result));
     }
