@@ -24,8 +24,7 @@ public class ListNode {
         }
     }
 
-    @Override
-    public String toString() {
+    public String printNode() {
         ListNode listNode = this;
 
         StringBuilder stringBuilder = new StringBuilder();

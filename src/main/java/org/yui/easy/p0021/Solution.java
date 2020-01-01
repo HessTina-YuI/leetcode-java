@@ -54,6 +54,6 @@ public class Solution {
         Solution solution = new Solution();
         ListNode result = solution.mergeTwoLists(l1, l2);
 
-        System.out.println(result);
+        System.out.println(result.printNode());
     }
 }

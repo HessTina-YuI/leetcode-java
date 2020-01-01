@@ -41,6 +41,6 @@ public class Solution {
         Solution solution = new Solution();
         ListNode result = solution.swapPairs(head);
 
-        System.out.println(result);
+        System.out.println(result.printNode());
     }
 }

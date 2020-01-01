@@ -40,6 +40,6 @@ public class Solution {
         Solution solution = new Solution();
         ListNode result = solution.deleteDuplicates(head);
 
-        System.out.println(result);
+        System.out.println(result.printNode());
     }
 }

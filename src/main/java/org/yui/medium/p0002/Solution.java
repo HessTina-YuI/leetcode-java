@@ -58,6 +58,6 @@ public class Solution {
         Solution solution = new Solution();
         ListNode result = solution.addTwoNumbers(l1, l2);
 
-        System.out.println(result);
+        System.out.println(result.printNode());
     }
 }
