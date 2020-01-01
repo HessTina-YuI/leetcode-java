@@ -1,5 +1,7 @@
 package org.yui.medium.p0002;
 
+import org.yui.structure.ListNode;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

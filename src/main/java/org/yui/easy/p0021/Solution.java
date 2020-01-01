@@ -1,5 +1,7 @@
 package org.yui.easy.p0021;
 
+import org.yui.structure.ListNode;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -23,7 +25,7 @@ public class Solution {
 
         while (lTemp1 != null || lTemp2 != null) {
             if (lTemp1 == null) {
-                p.next = new ListNode(lTemp2.val);
+                p = new ListNode(lTemp2.val);
                 p = p.next;
                 lTemp2 = lTemp2.next;
             } else if (lTemp2 == null) {
