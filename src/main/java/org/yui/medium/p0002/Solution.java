@@ -52,17 +52,8 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        ListNode l1 = new ListNode(2);
-        ListNode ll1 = l1;
-        ll1.next = new ListNode(4);
-        ll1 = ll1.next;
-        ll1.next = new ListNode(3);
-
-        ListNode l2 = new ListNode(5);
-        ListNode ll2 = l2;
-        ll2.next = new ListNode(6);
-        ll2 = ll2.next;
-        ll2.next = new ListNode(4);
+        ListNode l1 = new ListNode(new int[]{2,4,3});
+        ListNode l2 = new ListNode(new int[]{5,6,4});
 
         Solution solution = new Solution();
         ListNode result = solution.addTwoNumbers(l1, l2);

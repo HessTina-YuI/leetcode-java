@@ -48,17 +48,8 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        ListNode l1 = new ListNode(1);
-        ListNode ll1 = l1;
-        ll1.next = new ListNode(2);
-        ll1 = ll1.next;
-        ll1.next = new ListNode(4);
-
-        ListNode l2 = new ListNode(1);
-        ListNode ll2 = l2;
-        ll2.next = new ListNode(3);
-        ll2 = ll2.next;
-        ll2.next = new ListNode(4);
+        ListNode l1 = new ListNode(new int[]{1, 2, 4});
+        ListNode l2 = new ListNode(new int[]{1, 3, 4});
 
         Solution solution = new Solution();
         ListNode result = solution.mergeTwoLists(l1, l2);
