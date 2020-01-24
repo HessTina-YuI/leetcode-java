@@ -16,7 +16,7 @@ import java.util.Queue;
  *
  * @program: leetcode
  * @description: 23.合并l个排序链表
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-02 04:02
  **/
 public class Solution {

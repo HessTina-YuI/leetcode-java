@@ -3,7 +3,7 @@ package org.yui.easy.p0027;
 /**
  * @program: leet-code
  * @description: 27.移除元素
- * @author: yui
+ * @author: YuI
  * @create: 2019-12-30 21:35
  **/
 public class Solution {

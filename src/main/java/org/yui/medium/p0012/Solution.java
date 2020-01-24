@@ -3,7 +3,7 @@ package org.yui.medium.p0012;
 /**
  * @program: leetcode
  * @description: 12.整数转罗马数字
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-03 02:26
  **/
 public class Solution {

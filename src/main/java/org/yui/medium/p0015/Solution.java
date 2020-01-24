@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @program: leetcode
  * @description: 15.三数之和
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-03 01:26
  **/
 public class Solution {

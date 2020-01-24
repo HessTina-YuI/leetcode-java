@@ -3,7 +3,7 @@ package org.yui.easy.p0028;
 /**
  * @program: leet-code
  * @description: 28.实现strStr()
- * @author: yui
+ * @author: YuI
  * @create: 2019-12-30 21:49
  **/
 public class Solution {

@@ -3,7 +3,7 @@ package org.yui.easy.p0007;
 /**
  * @program: leet-code
  * @description: 7.整数反转
- * @author: yui
+ * @author: YuI
  * @create: 2019-12-30 17:30
  **/
 public class Solution {

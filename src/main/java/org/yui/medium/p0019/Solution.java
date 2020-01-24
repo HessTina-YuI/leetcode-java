@@ -12,7 +12,7 @@ import org.yui.structure.ListNode;
  *
  * @program: leetcode
  * @description: 19.删除链表的倒数第N个节点
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-01 22:48
  **/
 public class Solution {

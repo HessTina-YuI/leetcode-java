@@ -3,7 +3,7 @@ package org.yui.easy.p0009;
 /**
  * @program: leet-code
  * @description: 9.回文数
- * @author: yui
+ * @author: YuI
  * @create: 2019-12-30 18:09
  **/
 public class Solution {

@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @program: leetcode
  * @description: 66. 加一
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-21 15:21
  **/
 public class Solution {

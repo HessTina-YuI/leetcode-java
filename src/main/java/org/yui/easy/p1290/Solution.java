@@ -12,7 +12,7 @@ import org.yui.structure.ListNode;
  *
  * @program: leetcode
  * @description: 1290.二进制链表转整数
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-02 03:53
  **/
 public class Solution {

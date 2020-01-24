@@ -5,7 +5,7 @@ import java.util.Stack;
 /**
  * @program: leetcode
  * @description: 844.比较含退格的字符串
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-02 19:24
  **/
 public class Solution {

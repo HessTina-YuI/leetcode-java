@@ -12,7 +12,7 @@ import org.yui.structure.ListNode;
  *
  * @program: leetcode
  * @description: 86. 分隔链表
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-02 01:03
  **/
 public class Solution {

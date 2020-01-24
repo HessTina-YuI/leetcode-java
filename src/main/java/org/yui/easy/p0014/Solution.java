@@ -3,7 +3,7 @@ package org.yui.easy.p0014;
 /**
  * @program: leet-code
  * @description: 14.最长公共前缀
- * @author: yui
+ * @author: YuI
  * @create: 2019-12-30 19:43
  **/
 public class Solution {

@@ -3,7 +3,7 @@ package org.yui.easy.p0026;
 /**
  * @program: leet-code
  * @description: 26.删除排序数组中的重复功能
- * @author: yui
+ * @author: YuI
  * @create: 2019-12-30 21:14
  **/
 public class Solution {

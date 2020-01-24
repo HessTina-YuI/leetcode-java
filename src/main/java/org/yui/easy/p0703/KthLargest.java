@@ -10,7 +10,7 @@ import java.util.Queue;
  *
  * @program: leetcode
  * @description: 703.数据流中的第K大元素
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-03 21:38
  **/
 public class KthLargest {

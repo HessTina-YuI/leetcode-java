@@ -3,7 +3,7 @@ package org.yui.easy.p0088;
 /**
  * @program: leetcode
  * @description: 88.合并两个有序数组
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-05 19:21
  **/
 public class Solution {

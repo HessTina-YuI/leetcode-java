@@ -12,7 +12,7 @@ import java.util.Stack;
  *
  * @program: leetcode
  * @description: 232.用栈实现队列
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-02 20:17
  **/
 public class MyQueue {

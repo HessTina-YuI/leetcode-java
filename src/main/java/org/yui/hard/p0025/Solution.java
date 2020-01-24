@@ -14,7 +14,7 @@ import java.util.Stack;
  *
  * @program: leetcode
  * @description: 25.K个一组翻转链表
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-02 15:30
  **/
 public class Solution {

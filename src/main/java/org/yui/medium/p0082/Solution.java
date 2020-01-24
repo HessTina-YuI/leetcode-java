@@ -12,7 +12,7 @@ import org.yui.structure.ListNode;
  *
  * @program: leetcode
  * @description: 82.删除排序链表中的重复元素II
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-02 00:24
  **/
 public class Solution {

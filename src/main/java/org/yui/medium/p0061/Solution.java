@@ -12,7 +12,7 @@ import org.yui.structure.ListNode;
  *
  * @program: leetcode
  * @description: 61.旋转链表
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-01 23:11
  **/
 public class Solution {

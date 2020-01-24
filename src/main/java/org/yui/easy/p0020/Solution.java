@@ -7,7 +7,7 @@ import java.util.Stack;
 /**
  * @program: leet-code
  * @description: 20.有效的括号
- * @author: yui
+ * @author: YuI
  * @create: 2019-12-30 20:07
  **/
 public class Solution {

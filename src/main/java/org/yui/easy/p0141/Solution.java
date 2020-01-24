@@ -15,7 +15,7 @@ import org.yui.structure.ListNode;
  *
  * @program: leetcode
  * @description: 141. 环形链表
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-01 19:39
  **/
 public class Solution {

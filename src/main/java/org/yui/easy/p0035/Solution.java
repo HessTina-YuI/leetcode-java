@@ -3,7 +3,7 @@ package org.yui.easy.p0035;
 /**
  * @program: leet-code
  * @description: 35.搜索插入位置
- * @author: yui
+ * @author: YuI
  * @create: 2019-12-30 22:03
  **/
 public class Solution {

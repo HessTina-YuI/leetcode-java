@@ -3,7 +3,7 @@ package org.yui.structure;
 /**
  * @program: leetcode
  * @description: 单链表的POJO类
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-01 14:05
  **/
 public class ListNode {

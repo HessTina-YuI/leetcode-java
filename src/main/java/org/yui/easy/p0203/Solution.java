@@ -12,7 +12,7 @@ import org.yui.structure.ListNode;
  *
  * @program: leetcode
  * @description: 203.移除链表元素
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-02 02:33
  **/
 public class Solution {

@@ -3,7 +3,7 @@ package org.yui.easy.p0058;
 /**
  * @program: leetcode
  * @description: 58.最后一个单词的长度
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-21 15:04
  **/
 public class Solution {

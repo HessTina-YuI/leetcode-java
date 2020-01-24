@@ -7,7 +7,7 @@ import java.util.Map;
 /**
  * @program: leet-code
  * @description: 1.整数求和
- * @author: yui
+ * @author: YuI
  * @create: 2019-12-30 17:20
  **/
 public class Solution {

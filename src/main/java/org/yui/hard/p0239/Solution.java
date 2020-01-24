@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @program: leetcode
  * @description: 239.滑动窗口最大值
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-03 22:39
  **/
 public class Solution {

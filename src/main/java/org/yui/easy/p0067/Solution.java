@@ -3,7 +3,7 @@ package org.yui.easy.p0067;
 /**
  * @program: leetcode
  * @description: 67. 二进制求和
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-21 15:41
  **/
 public class Solution {

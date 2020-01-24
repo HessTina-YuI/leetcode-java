@@ -16,7 +16,7 @@ import java.util.LinkedList;
  *
  * @program: leetcode
  * @description: 143.重排链表
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-02 16:48
  **/
 public class Solution {

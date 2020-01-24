@@ -6,7 +6,7 @@ import java.util.concurrent.PriorityBlockingQueue;
 /**
  * @program: leet-code
  * @description: 38.报数
- * @author: yui
+ * @author: YuI
  * @create: 2019-12-30 22:16
  **/
 public class Solution {

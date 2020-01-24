@@ -3,7 +3,7 @@ package org.yui.medium.p0008;
 /**
  * @program: leetcode
  * @description: 8.字符串转换整数 (atoi)
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-03 00:47
  **/
 public class Solution {

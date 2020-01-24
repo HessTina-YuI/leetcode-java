@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @program: leetcode
  * @description: 215.数组中的第K个最大元素
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-02 19:07
  **/
 public class Solution {

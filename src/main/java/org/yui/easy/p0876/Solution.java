@@ -12,7 +12,7 @@ import org.yui.structure.ListNode;
  *
  * @program: leetcode
  * @description: 876.链表的中间结点
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-02 03:45
  **/
 public class Solution {

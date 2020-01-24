@@ -3,7 +3,7 @@ package org.yui.medium.p0003;
 /**
  * @program: leetcode
  * @description: 3.无重复字符的最长子串
- * @author: yui
+ * @author: YuI
  * @create: 2019-12-31 15:07
  **/
 public class Solution {

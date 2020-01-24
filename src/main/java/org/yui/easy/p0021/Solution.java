@@ -12,7 +12,7 @@ import org.yui.structure.ListNode;
  *
  * @program: leet-code
  * @description: 21.合并两个有序链表
- * @author: yui
+ * @author: YuI
  * @create: 2019-12-30 20:22
  **/
 public class Solution {

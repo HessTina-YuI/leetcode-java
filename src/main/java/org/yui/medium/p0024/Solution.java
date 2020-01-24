@@ -12,7 +12,7 @@ import org.yui.structure.ListNode;
  *
  * @program: leetcode
  * @description: 24. 两两交换链表中的节点
- * @author: yui
+ * @author: YuI
  * @create: 2020-01-01 18:49
  **/
 public class Solution {
