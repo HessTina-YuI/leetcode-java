@@ -26,7 +26,7 @@ public class Solution {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
-        int[] nums = new int[]{0,1,2,2,3,0,4,2};
+        int[] nums = new int[]{0, 1, 2, 2, 3, 0, 4, 2};
         int result = solution.removeElement(nums, 2);
 
         System.out.println(result);

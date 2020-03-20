@@ -31,7 +31,7 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        ListNode head = new ListNode(new int[]{1,2,3,4,5});
+        ListNode head = new ListNode(new int[]{1, 2, 3, 4, 5});
         Solution solution = new Solution();
         ListNode result = solution.reverseList(head);
 

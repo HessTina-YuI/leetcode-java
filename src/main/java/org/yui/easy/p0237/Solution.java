@@ -27,7 +27,7 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        ListNode head = new ListNode(new int[]{4,5,1,9});
+        ListNode head = new ListNode(new int[]{4, 5, 1, 9});
         Solution solution = new Solution();
         solution.deleteNode(head.next);
 

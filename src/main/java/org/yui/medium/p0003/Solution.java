@@ -41,7 +41,7 @@ public class Solution {
     }
 
     public int containsCharPosition(char[] chars, char c, int head, int retail) {
-        for (int i = retail; i >= head ; i--) {
+        for (int i = retail; i >= head; i--) {
             if (chars[i] == c) {
                 return i;
             }

@@ -36,7 +36,7 @@ public class Solution {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
-        int result = solution.countCharacters(new String[]{"hello","world","leetcode"}, "welldonehoneyr");
+        int result = solution.countCharacters(new String[]{"hello", "world", "leetcode"}, "welldonehoneyr");
 
         System.out.println(result);
     }

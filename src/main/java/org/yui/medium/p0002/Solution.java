@@ -36,10 +36,10 @@ public class Solution {
             resTemp = resTemp.next;
             addNum = sumTemp / 10;
 
-            if (lTemp1!= null) {
+            if (lTemp1 != null) {
                 lTemp1 = lTemp1.next;
             }
-            if (lTemp2 !=null) {
+            if (lTemp2 != null) {
                 lTemp2 = lTemp2.next;
             }
         }
@@ -52,8 +52,8 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        ListNode l1 = new ListNode(new int[]{2,4,3});
-        ListNode l2 = new ListNode(new int[]{5,6,4});
+        ListNode l1 = new ListNode(new int[]{2, 4, 3});
+        ListNode l2 = new ListNode(new int[]{5, 6, 4});
 
         Solution solution = new Solution();
         ListNode result = solution.addTwoNumbers(l1, l2);
