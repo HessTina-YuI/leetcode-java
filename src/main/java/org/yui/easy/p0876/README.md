@@ -1,3 +1,4 @@
+# 876.链表的中间结点
 给定一个带有头结点 head 的非空单链表，返回链表的中间结点。
 
 如果有两个中间结点，则返回第二个中间结点。
@@ -20,7 +21,7 @@ ans.val = 3, ans.next.val = 4, ans.next.next.val = 5, 以及 ans.next.next.next 
 
 提示：
 
-给定链表的结点数介于 1 和 100 之间。
+    给定链表的结点数介于 1 和 100 之间。
 
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/middle-of-the-linked-list
