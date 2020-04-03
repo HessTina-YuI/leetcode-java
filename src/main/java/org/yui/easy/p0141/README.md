@@ -9,7 +9,7 @@
 输出：true
 解释：链表中有一个环，其尾部连接到第二个节点。
 ```
-![circularlinkedlist_test1](../../../../../resources/image/circularlinkedlist_test1.png)
+![141_example_1](../../../../../resources/image/141_example_1.png)
 
 示例 2：
 ```text
@@ -17,7 +17,7 @@
 输出：true
 解释：链表中有一个环，其尾部连接到第一个节点。
 ```
-![circularlinkedlist_test2](../../../../../resources/image/circularlinkedlist_test2.png)
+![141_example_2](../../../../../resources/image/141_example_2.png)
 
 示例 3：
 ```text
@@ -25,7 +25,7 @@
 输出：false
 解释：链表中没有环。
 ```
-![circularlinkedlist_test3](../../../../../resources/image/circularlinkedlist_test3.png)
+![141_example_3](../../../../../resources/image/141_example_3.png)
 
 进阶：
 
