@@ -34,10 +34,7 @@ public class Solution {
                 stack.push(encode);
                 encode = new Encode();
             }
-            if (c >= 'a' && c <= 'z') {
-                stack.peek().str.append(c);
-            }
-            if (c >= 'A' && c <= 'Z') {
+            if (c >= 'a' && c <= 'z' || c >= 'A' && c <= 'Z') {
                 stack.peek().str.append(c);
             }
             if (c == ']') {
